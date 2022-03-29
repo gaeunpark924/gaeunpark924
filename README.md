@@ -1,21 +1,21 @@
 ### Hi there, I'm Gaeun Park 👋
 
-### Who Am I
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeuns">
  -->
+### Who Am I
 - 📖 I'm currently learning Android and Algorithm
 - 🌱 I'm currently interested in Kotlin language and Git
 - 💻 I majoring in Smart ICT Convergence Engineering at Konkuk University
 - 🎈 Please contact me at qkrrkdms924@gmail.com
 
+### What I Like
+- 🎞 Movie
+- 🥪 Sandwich & ☕ Coffee 
+
 <p>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeuns" height=170>
 <img src="https://github-readme-stats.vercel.app/api?username=gaeunpark924&show_icons=true&theme=tokyonight" height=170>
 </p>
-
-### What I Like
-- 🎞 Movie
-- 🥪 Sandwich & ☕ Coffee 
 
 <!-- 
 ### Algorithm
