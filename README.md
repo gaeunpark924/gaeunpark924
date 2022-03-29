@@ -1,4 +1,4 @@
-### Hi there, I'm Gaeun Park 👋
+## Hi there, I'm Gaeun Park 👋
 
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeuns">
  -->
@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gaeunpark924&show_icons=true&theme=dark" height=170>
 </p>
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
