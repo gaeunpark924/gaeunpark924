@@ -3,7 +3,7 @@
  -->
 ### Who Am I
 - 📖 I'm currently learning Android and Algorithm
-- 🌱 I'm currently interested in Kotlin language and Git
+- 🌱 I'm currently interested in Kotlin and Git
 <!-- - 💻 I majoring in Smart ICT Convergence Engineering at Konkuk University
  -->
 ### What I Like
