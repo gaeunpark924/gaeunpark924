@@ -1,7 +1,3 @@
-## Hi there, I'm Gaeun Park 👋
-
-- 기본기 있는 안정적인 코드를 짜기 위해 관련 프로젝트를 하면서 AOS를 공부하고 있습니다. 
-- 말과 글로 소통하는 협업을 지향합니다. ✍ 💻
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=gaeunpark924&show_icons=true&theme=dark" height=170>
 </p>
