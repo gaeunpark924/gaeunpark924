@@ -22,11 +22,6 @@
 </a>
 </p>
 
-💻 **BOJ**
-<p>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeuns" height=160>
-</p>
-
 <!--
 **gaeunpark924/gaeunpark924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
